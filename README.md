@@ -35,7 +35,7 @@ Adalah sebuah NFT offical dari Bekantan Hamox yang mana karya yang dihasilkan ad
 [Bekantan Hamox | NFT | Metaverse](http://bekantan-hamox.vercel.app)
 
 ## Getting Started
-- ```$ git clone https://github.com/or-abdillh/bechantant-project```
+- ```$ git clone git@github.com:hardihardi/Bekantan-Hamox-NFT-Metaverse.git```
 - ```$ cd bechantant-project && npm install ```
 - ```$ npm run dev```
 
