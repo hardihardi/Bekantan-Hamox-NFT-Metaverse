@@ -1,0 +1,18 @@
+/* 
+ * Google Font Antic Slab
+ * Google Font Fira Sans
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Antic+Slab&family=Fira+Sans:wght@300;400;500&display=swap');
+
+* { 
+  font-family: 'Fira Sans', sans-serif; 
+}
+
+body {
+  @apply bg-gradient-to-b from-gray-900 via-slate-900 to-gray-900;
+}
+
+.font-antic-slab { 
+  font-family: 'Antic Slab', sans-serif; 
+}
