@@ -32,7 +32,7 @@ Adalah sebuah NFT offical dari Bekantan Hamox yang mana karya yang dihasilkan ad
 - Open Sans
 
 #### Live Preview
-[Bekantan Hamox | NFT | Metaverse](http://bekantan-hamox.vercel.app)
+[Bekantan Hamox | NFT | Metaverse](https://bekantan-hamox-nft-metaverse.vercel.app/)
 
 ## Getting Started
 - ```$ git clone git@github.com:hardihardi/Bekantan-Hamox-NFT-Metaverse.git```
